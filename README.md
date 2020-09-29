@@ -1,3 +1,3 @@
 # P5WebeditorProjects
 Some of my small projects done in p5.js
-![BubbleSort visualisation](demo/BubbleSort.gif)
+![BubbleSort visualisation](Demo/BubbleSort.gif)
